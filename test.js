@@ -1,2 +1,1 @@
-let a = 10;
-let c=1000;
+console.log("main");
