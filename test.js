@@ -1,1 +1,1 @@
-console.log("the main111");
+console.log("main");
